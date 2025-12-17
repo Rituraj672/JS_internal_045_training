@@ -1,0 +1,15 @@
+/workspaces/JS_internal_045_training/HospitalSystem/obj/Debug/net8.0/HospitalSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/JS_internal_045_training/HospitalSystem/obj/Debug/net8.0/HospitalSystem.AssemblyInfoInputs.cache
+/workspaces/JS_internal_045_training/HospitalSystem/obj/Debug/net8.0/HospitalSystem.AssemblyInfo.cs
+/workspaces/JS_internal_045_training/HospitalSystem/obj/Debug/net8.0/HospitalSystem.csproj.CoreCompileInputs.cache
+/workspaces/JS_internal_045_training/HospitalSystem/obj/Debug/net8.0/HospitalSystem.sourcelink.json
+/workspaces/JS_internal_045_training/HospitalSystem/bin/Debug/net8.0/HospitalSystem
+/workspaces/JS_internal_045_training/HospitalSystem/bin/Debug/net8.0/HospitalSystem.deps.json
+/workspaces/JS_internal_045_training/HospitalSystem/bin/Debug/net8.0/HospitalSystem.runtimeconfig.json
+/workspaces/JS_internal_045_training/HospitalSystem/bin/Debug/net8.0/HospitalSystem.dll
+/workspaces/JS_internal_045_training/HospitalSystem/bin/Debug/net8.0/HospitalSystem.pdb
+/workspaces/JS_internal_045_training/HospitalSystem/obj/Debug/net8.0/HospitalSystem.dll
+/workspaces/JS_internal_045_training/HospitalSystem/obj/Debug/net8.0/refint/HospitalSystem.dll
+/workspaces/JS_internal_045_training/HospitalSystem/obj/Debug/net8.0/HospitalSystem.pdb
+/workspaces/JS_internal_045_training/HospitalSystem/obj/Debug/net8.0/HospitalSystem.genruntimeconfig.cache
+/workspaces/JS_internal_045_training/HospitalSystem/obj/Debug/net8.0/ref/HospitalSystem.dll
